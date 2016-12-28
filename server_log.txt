@@ -1,0 +1,113 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:38:07] filterscripts = ""  (string)
+[02:38:07] 
+[02:38:07] Server Plugins
+[02:38:07] --------------
+[02:38:07]  Loaded 0 plugins.
+
+[02:38:07] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:38:07] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:39:11] filterscripts = ""  (string)
+[02:39:11] 
+[02:39:11] Server Plugins
+[02:39:11] --------------
+[02:39:11]  Loading plugin: streamer.dll
+[02:39:11] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[02:39:11]   Loaded.
+[02:39:11]  Loaded 1 plugins.
+
+[02:39:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:39:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:39:13] filterscripts = ""  (string)
+[02:39:13] 
+[02:39:13] Server Plugins
+[02:39:13] --------------
+[02:39:13]  Loading plugin: streamer.dll
+[02:39:13] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[02:39:13]   Loaded.
+[02:39:13]  Loaded 1 plugins.
+
+[02:39:18] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:39:18] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:39:43] filterscripts = ""  (string)
+[02:39:43] 
+[02:39:43] Server Plugins
+[02:39:43] --------------
+[02:39:43]  Loading plugin: streamer.dll
+[02:39:43] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[02:39:43]   Loaded.
+[02:39:43]  Loaded 1 plugins.
+
+[02:39:43] 
+[02:39:43] Filterscripts
+[02:39:43] ---------------
+[02:39:43]   Loaded 0 filterscripts.
+
+[02:39:43] 
+
+
+
+
+
+
+___________________ INICIANDO GAMEMODE ___________________
+[02:39:43] Nueva Hora: 1 Minutos: 20 Milisegundos: 1216000
+[02:39:43] 01- MAX_PLAYERS			100
+02- MAX_OBJECTS			85
+06- MAX_BIZZ_TYPE		29
+09- MAX_BIZZ			0
+10- MAX_HOUSE			0
+14- MAX_CAR			40
+15- MAX_CAR_DUENO		0
+16- MAX_CAR_GANG		24
+17- MAX_CAR_PUBLIC		16
+20- MAX_PICKUP			0
+21- MAX_TEXT_DRAW		143
+[02:39:43] ___________________ GAMEMODE CARGADO CORRECTAMENTE! ___________________
+[02:39:43] 
+______________ NO SE CARGARÓN FILESCRIPTS/FILTERSCRIPTS ________________
+[02:39:43] Number of vehicle models: 4
