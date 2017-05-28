@@ -111,3 +111,59 @@ ___________________ INICIANDO GAMEMODE ___________________
 [02:39:43] 
 ______________ NO SE CARGARÓN FILESCRIPTS/FILTERSCRIPTS ________________
 [02:39:43] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:50:39] filterscripts = ""  (string)
+[09:50:39] 
+[09:50:39] Server Plugins
+[09:50:39] --------------
+[09:50:39]  Loading plugin: streamer.dll
+[09:50:39] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[09:50:39]   Loaded.
+[09:50:39]  Loaded 1 plugins.
+
+[09:50:39] 
+[09:50:39] Filterscripts
+[09:50:39] ---------------
+[09:50:39]   Loaded 0 filterscripts.
+
+[09:50:40] 
+
+
+
+
+
+
+___________________ INICIANDO GAMEMODE ___________________
+[09:50:40] Nueva Hora: 8 Minutos: 9 Milisegundos: 559000
+[09:50:40] 01- MAX_PLAYERS			100
+02- MAX_OBJECTS			85
+06- MAX_BIZZ_TYPE		29
+09- MAX_BIZZ			0
+10- MAX_HOUSE			0
+14- MAX_CAR			40
+15- MAX_CAR_DUENO		0
+16- MAX_CAR_GANG		24
+17- MAX_CAR_PUBLIC		16
+20- MAX_PICKUP			0
+21- MAX_TEXT_DRAW		143
+[09:50:40] ___________________ GAMEMODE CARGADO CORRECTAMENTE! ___________________
+[09:50:40] 
+______________ NO SE CARGARÓN FILESCRIPTS/FILTERSCRIPTS ________________
+[09:50:40] Number of vehicle models: 4
+[09:51:53] --- Server Shutting Down.
+[09:51:53] ___________________ GAMEMODE DESCARGADO CORRECTAMENTE! ___________________
+[09:51:53] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
